@@ -1,4 +1,4 @@
-class Myriagon extends Shape {
+public class Myriagon extends Shape {
 
 
 }
