@@ -3,7 +3,6 @@ package com.example.lab4;
 public abstract class Shape{
     private int x;
     private int y;
-    public String colour = "Yellow";
 
     public int getX() {
         return x;
