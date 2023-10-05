@@ -1,0 +1,4 @@
+class Myriagon extends Shape {
+
+
+}
